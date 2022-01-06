@@ -1,0 +1,19 @@
+{
+ "content": null, 
+ "creation": "2019-06-26 07:36:32.105986", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "icon": "octicon octicon-globe", 
+ "idx": 0, 
+ "modified": "2019-06-26 07:37:29.978585", 
+ "modified_by": "Administrator", 
+ "module": "Customer Journey", 
+ "name": "customer_safari", 
+ "owner": "Administrator", 
+ "page_name": "customer_safari", 
+ "roles": [], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0
+}
